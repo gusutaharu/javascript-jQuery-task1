@@ -1,0 +1,31 @@
+
+h3{
+   font-size:15px ;
+}
+
+
+.time{
+   padding-left: 20px;
+   font-size: 25px;
+   letter-spacing: 5px;
+}
+
+
+
+
+button{
+   height: 40px;
+   width: 80px;
+   background-color: #E0E0E0;
+   border-radius: 3px;
+   font-size: 12px;
+   font-weight: bold;
+}
+
+button:hover{
+   background-color: #949593;
+}
+
+button:disabled {
+    background-color: #ccc;
+}
